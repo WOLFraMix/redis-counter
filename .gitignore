@@ -1,0 +1,6 @@
+main
+*.exe
+.env
+instruction.txt
+*.png
+.vscode/
